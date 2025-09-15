@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.done{
+    text-decoration: line-through;
+}
+body{
+    text-align: center;
+}
