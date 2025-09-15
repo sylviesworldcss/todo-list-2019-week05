@@ -6,4 +6,8 @@
 }
 body{
     text-align: center;
+    background-color: bisque;
+}
+.allTasks{
+    text-decoration: none;
 }
